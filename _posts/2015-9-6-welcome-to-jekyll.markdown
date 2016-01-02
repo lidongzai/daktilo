@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Welcome to the Jekyll!"
 subtitle: "Feel home!"
 date:   2015-09-06 23:34:01
 categories: [design, tool]
