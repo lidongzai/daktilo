@@ -3,8 +3,8 @@ title: DONGZAI.NET
 description: >
   동짜이넷
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: "http://dongzai.net" # the base hostname & protocol for your site
 
 author:
   fullname: DONGJAE LEE
